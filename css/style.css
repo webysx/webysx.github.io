@@ -10238,10 +10238,36 @@ fieldset[disabled] .select select:hover {
   padding: 3rem 1.5rem 6rem;
 }
 html {
+  height: 100%;
   -webkit-text-size-adjust: 100%;
   -moz-text-size-adjust: 100%;
   -ms-text-size-adjust: 100%;
   text-size-adjust: 100%;
+}
+body {
+  min-height: 100%;
+  display: flex;
+  flex-direction: column;
+}
+body > .section {
+  flex-grow: 1;
+}
+::-webkit-scrollbar {
+  width: 8px;
+  height: 8px;
+}
+::-webkit-scrollbar-track {
+  border-radius: 3px;
+  background: rgba(0,0,0,0.06);
+  box-shadow: inset 0 0 5px rgba(0,0,0,0.1);
+}
+::-webkit-scrollbar-thumb {
+  border-radius: 3px;
+  background: rgba(0,0,0,0.12);
+  box-shadow: inset 0 0 10px rgba(0,0,0,0.2);
+}
+::-webkit-scrollbar-thumb:hover {
+  background: rgba(0,0,0,0.24);
 }
 .ml-0,
 .mx-0 {
@@ -10708,6 +10734,10 @@ html {
   right: 0;
   top: 0;
 }
+.image .avatar {
+  height: 100%;
+  object-fit: cover;
+}
 .button.is-transparent {
   color: inherit;
   background: transparent;
@@ -10780,6 +10810,13 @@ article.article .content blockquote.pullquote {
 }
 article.article .content blockquote footer strong + cite {
   margin-left: 0.5em;
+}
+article.article .content .message.message-immersive {
+  border-radius: 0;
+  margin: 0 -1.5rem 1.5rem -1.5rem;
+}
+article.article .content .message.message-immersive .message-body {
+  border: none;
 }
 .rtl {
   direction: rtl;
@@ -10995,6 +11032,7 @@ footer.footer .level-end .field {
   line-height: 1.5em;
   font-weight: normal;
   background-color: #fff;
+  min-height: 3rem;
 }
 .searchbox .searchbox-input-container {
   display: flex;
@@ -11307,6 +11345,34 @@ figure.highlight .section {
 .far,
 .fas {
   line-height: inherit;
+}
+.MathJax,
+.katex-display {
+  overflow-x: auto;
+  overflow-y: hidden;
+}
+.katex {
+  white-space: nowrap;
+}
+.katex-display {
+  margin-top: -1em !important;
+}
+.katex-html {
+  padding-top: 1em;
+}
+.katex-html .tag {
+  align-items: unset;
+  background-color: unset;
+  border-radius: unset;
+  color: unset;
+  display: unset;
+  font-size: unset;
+  height: unset;
+  justify-content: unset;
+  line-height: unset;
+  padding-left: unset;
+  padding-right: unset;
+  white-space: unset;
 }
 @media screen and (min-width: 1280px) {
   .is-1-column .container,

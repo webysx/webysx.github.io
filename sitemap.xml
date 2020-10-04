@@ -60,6 +60,20 @@
 
   
   <url>
+    <loc>http://yoursite.com/tags/netcat/</loc>
+    <lastmod>2020-10-04</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://yoursite.com/tags/VulnHub/</loc>
+    <lastmod>2020-10-04</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>http://yoursite.com/tags/LAMP/</loc>
     <lastmod>2020-10-04</lastmod>
     <changefreq>daily</changefreq>
@@ -74,41 +88,13 @@
   </url>
   
   <url>
-    <loc>http://yoursite.com/tags/netcat/</loc>
-    <lastmod>2020-10-04</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>http://yoursite.com/tags/scapy/</loc>
     <lastmod>2020-10-04</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
-  <url>
-    <loc>http://yoursite.com/tags/VulnHub/</loc>
-    <lastmod>2020-10-04</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
 
-  
-  <url>
-    <loc>http://yoursite.com/categories/%E7%BD%91%E7%AB%99/</loc>
-    <lastmod>2020-10-04</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>http://yoursite.com/categories/kali/</loc>
-    <lastmod>2020-10-04</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
   
   <url>
     <loc>http://yoursite.com/categories/%E5%B7%A5%E5%85%B7/</loc>
@@ -119,6 +105,20 @@
   
   <url>
     <loc>http://yoursite.com/categories/%E6%B8%97%E9%80%8F%E6%B5%8B%E8%AF%95/</loc>
+    <lastmod>2020-10-04</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://yoursite.com/categories/%E7%BD%91%E7%AB%99/</loc>
+    <lastmod>2020-10-04</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://yoursite.com/categories/kali/</loc>
     <lastmod>2020-10-04</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
