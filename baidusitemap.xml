@@ -1,27 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>http://yoursite.com/%E7%AC%AC%E4%B8%80%E6%AC%A1%E6%97%A5%E7%AB%99/</loc>
-    <lastmod>2020-10-04</lastmod>
+    <loc>http://yoursite.com/%E8%9A%81%E5%89%91shell%E8%BD%AC%E5%88%B0meterpreter-shell/</loc>
+    <lastmod>2020-10-05</lastmod>
   </url>
   <url>
     <loc>http://yoursite.com/VulnHub-DC-1/</loc>
-    <lastmod>2020-10-04</lastmod>
-  </url>
-  <url>
-    <loc>http://yoursite.com/%E5%AE%9E%E6%88%981-%E4%BD%BF%E7%94%A8scapy%E5%AE%9A%E5%88%B6%E6%95%B0%E6%8D%AE%E5%8C%85%E8%BF%9B%E8%A1%8C%E9%AB%98%E7%BA%A7%E6%89%AB%E6%8F%8F/</loc>
-    <lastmod>2020-10-04</lastmod>
+    <lastmod>2020-10-05</lastmod>
   </url>
   <url>
     <loc>http://yoursite.com/NetCat%EF%BC%88nc%EF%BC%89/</loc>
-    <lastmod>2020-10-04</lastmod>
+    <lastmod>2020-10-05</lastmod>
   </url>
   <url>
     <loc>http://yoursite.com/LAMP%E7%8E%AF%E5%A2%83%E6%90%AD%E5%BB%BA/</loc>
-    <lastmod>2020-10-04</lastmod>
+    <lastmod>2020-10-05</lastmod>
   </url>
   <url>
     <loc>http://yoursite.com/kali%E5%AE%89%E8%A3%85/</loc>
-    <lastmod>2020-10-04</lastmod>
+    <lastmod>2020-10-05</lastmod>
+  </url>
+  <url>
+    <loc>http://yoursite.com/%E5%AE%9E%E6%88%981-%E4%BD%BF%E7%94%A8scapy%E5%AE%9A%E5%88%B6%E6%95%B0%E6%8D%AE%E5%8C%85%E8%BF%9B%E8%A1%8C%E9%AB%98%E7%BA%A7%E6%89%AB%E6%8F%8F/</loc>
+    <lastmod>2020-10-05</lastmod>
+  </url>
+  <url>
+    <loc>http://yoursite.com/%E7%AC%AC%E4%B8%80%E6%AC%A1%E6%97%A5%E7%AB%99/</loc>
+    <lastmod>2020-10-05</lastmod>
   </url>
 </urlset> 
