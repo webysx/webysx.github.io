@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://yoursite.com/documents/index.html</loc>
+    
+    <lastmod>2020-11-03</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://yoursite.com/python%E6%A8%A1%E6%9D%BF%E6%B3%A8%E5%85%A5-python%E6%B2%99%E7%AE%B1%E9%80%83%E9%80%B8/</loc>
     
     <lastmod>2020-11-02</lastmod>
